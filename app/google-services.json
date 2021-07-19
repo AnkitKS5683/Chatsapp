@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "215288638036",
+    "project_id": "clatsapp-ef0d3",
+    "storage_bucket": "clatsapp-ef0d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215288638036:android:08f4ba49afc1adce29dbc1",
+        "android_client_info": {
+          "package_name": "com.example.clatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215288638036-kidifnk9a2m6rj87tendtaai3nsp43ro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clatsapp",
+            "certificate_hash": "8d35f376c9532dedf53e0e4e7abe73840a26eb1c"
+          }
+        },
+        {
+          "client_id": "215288638036-3gtbq9r19sepm83a54c3q8q01ihhc7vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUDZ3V7GFg7gRuurLjwKt4CVsXhFiaM1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215288638036-3gtbq9r19sepm83a54c3q8q01ihhc7vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
